@@ -1,0 +1,15 @@
+.btn-search-orange {
+    color: #E69C00;
+    background: none;
+    border-radius: 5px;
+    padding: 0.4rem 2rem;
+    border: 2px solid #E69C00;
+    cursor: pointer;
+    transition: background-color 0.7s ease;
+}
+
+.btn-search-orange:hover {
+    color: white;
+    background-color: #E69C00;
+    box-shadow: 2px 2px 6px 1px #3E4144;
+}
